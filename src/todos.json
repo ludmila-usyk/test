@@ -1,0 +1,5 @@
+[
+    { "id": "id-1", "text": "Создать репозиторий", "completed": true },
+    { "id": "id-2", "text": "Написать код", "completed": false },
+    { "id": "id-3", "text": "Перезвонить", "completed": false }
+  ]

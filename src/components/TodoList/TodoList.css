@@ -1,0 +1,26 @@
+.Todo {
+  margin: 0;
+}
+  
+.TodoList {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+  
+.TodoList-text {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.TodoList-button {
+  margin-left: auto;
+  border-radius: 4px;
+  padding: 12px 24px;
+  background-color: indigo;
+  color: white;
+  font-weight: 500;
+}
